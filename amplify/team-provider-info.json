@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-youtrack-dev-c8428-authRole",
+      "UnauthRoleArn": "arn:aws:iam::345594579039:role/amplify-youtrack-dev-c8428-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::345594579039:role/amplify-youtrack-dev-c8428-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-youtrack-dev-c8428-deployment",
+      "UnauthRoleName": "amplify-youtrack-dev-c8428-unauthRole",
+      "StackName": "amplify-youtrack-dev-c8428",
+      "StackId": "arn:aws:cloudformation:us-east-1:345594579039:stack/amplify-youtrack-dev-c8428/46cc1fe0-99f3-11ef-82f6-0afffbed4f09",
+      "AmplifyAppId": "di01p3iotzjjz"
+    },
+    "categories": {
+      "auth": {
+        "youtrackc6cd9aa4": {}
+      },
+      "function": {
+        "S3Trigger058af50a": {
+          "deploymentBucketName": "amplify-youtrack-dev-c8428-deployment",
+          "s3Key": "amplify-builds/S3Trigger058af50a-526567475074394a7272-build.zip"
+        }
+      },
+      "api": {
+        "youtrack": {}
+      },
+      "storage": {
+        "AllStorage": {}
+      }
+    }
+  }
+}

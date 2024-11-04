@@ -26,7 +26,7 @@ export default function App() {
         {/* Bottom Illustration */}
         <View className="mt-12">
           <Image
-            source={require('./assets/illustration.png')} // Place the image in your assets folder
+            source={require('../assets/landing_slider.png')} 
             className="w-48 h-48"
             resizeMode="contain"
           />

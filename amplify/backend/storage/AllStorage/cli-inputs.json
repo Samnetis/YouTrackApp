@@ -1,0 +1,14 @@
+{
+  "resourceName": "AllStorage",
+  "policyUUID": "fcd8e1f5",
+  "bucketName": "youtrackbucket2024",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger058af50a",
+  "groupAccess": {}
+}
